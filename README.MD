@@ -20,6 +20,6 @@ This section explains what problem I solved with this project and how to use it.
 
 ## Contributors
 
-Explain how others can contribute to your project or if someone already has. w.
+Explain how others can contribute to your project or if someone already has.
 
 
